@@ -34,5 +34,5 @@ The following images show the web application's appearance and functionality:
 
 ![Home](./assets/home.png)
 
-![Notes](./assets/note1.png)
+![Notes](./assets/notes1.png)
 
