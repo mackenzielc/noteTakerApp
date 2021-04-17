@@ -30,6 +30,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Mock-Up
 
+Github: https://mackenzielc.github.io/noteTakerApp/ 
+Heroku: https://frozen-fjord-08033.herokuapp.com/ 
+
 The following images show the web application's appearance and functionality: 
 
 ![Home](./assets/home.png)
